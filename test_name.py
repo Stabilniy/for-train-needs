@@ -1,5 +1,1 @@
-def test():
-    one
-
-
-    
+deleted    
